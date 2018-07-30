@@ -1422,8 +1422,8 @@ var PasswordValidator = /** @class */ (function () {
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 var environment = {
     production: false,
-    apiUrl: 'https://nodewebethics.herokuapp.com//api/',
-    server_url: 'https://nodewebethics.herokuapp.com'
+    apiUrl: 'https://nodeapplogin.herokuapp.com/api/',
+    server_url: 'https://nodeapplogin.herokuapp.com'
     // apiUrl: 'http://localhost:4000/api/',
     //server_url: 'http://localhost:4000'
 };
